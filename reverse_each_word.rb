@@ -6,4 +6,5 @@ def reverse_each_word(string)
     array2 = word.split
     array2.reverse
   end
+  return array
 end
